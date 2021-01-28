@@ -9,8 +9,7 @@ A few important underatnding and assumptions in this regard are:
 5. I donot have gpu so it was trained on kaggle and other open source libraries. 
 6. The use of jupyter file is to elaborate learning and understanding internally than a package of complete work.
 
-If you like my work please upvote this ![Notebook](https://www.kaggle.com/tathagatbanerjee/machines-can-draw-neural-style-transfer-pytorch) 
-
+If you like my work please upvote this <a href="https://www.kaggle.com/tathagatbanerjee/machines-can-draw-neural-style-transfer-pytorch"> Notebook </a>
 
 # Experiment 1
 
