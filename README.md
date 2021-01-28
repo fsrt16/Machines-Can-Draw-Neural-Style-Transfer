@@ -32,7 +32,7 @@ If you like my work please upvote this <a href="https://www.kaggle.com/tathagatb
 <img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp5_c.png" width="500">
 
 ## Style
-<img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp5_s.png" width="505">
+<img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/ep5_s.png" width="500">
 
 ## Output
 <img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp5_o.png" width="500">
