@@ -15,7 +15,8 @@ If you like my work please upvote this ![Notebook](https://www.kaggle.com/tathag
 # Experiment 1
 
 ## Content
-![Content](https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp2_c.png)
+<img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp2_c.png" width="48">
+
 
 ## Style
 ![Style](https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp2_s.png)
