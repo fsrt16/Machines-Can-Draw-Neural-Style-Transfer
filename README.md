@@ -16,10 +16,8 @@ If you like my work please upvote this <a href="https://www.kaggle.com/tathagatb
 ## Content
 <img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp2_c.png" width="500">
 
-
 ## Style
 <img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp2_s.png" width="500">
-
 
 ## Output
 <img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp2_o.png" width="500">
@@ -43,13 +41,15 @@ If you like my work please upvote this <a href="https://www.kaggle.com/tathagatb
 
 # More Results
 
-<img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp5_o.png" width="500">
 
 <img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp4_o.png" width="500">
 
 <img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp3_o.png" width="500">
 
 <img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp2_o.png" width="500">
+
+<img src="https://github.com/fsrt16/Machines-Can-Draw-Neural-Style-Transfer/blob/main/Data/Output/exp5_o.png" width="500">
+
 
 
 
